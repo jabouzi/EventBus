@@ -1,8 +1,11 @@
 package com.skanderjabouzi.eventbus;
 
 import android.content.Intent;
+import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
@@ -10,22 +13,56 @@ import android.widget.Toast;
 import org.greenrobot.eventbus.EventBus;
 import org.greenrobot.eventbus.Subscribe;
 
+import java.io.ByteArrayOutputStream;
+
 public class MainActivity extends AppCompatActivity {
 
+    Button button;
     Button button1;
     Button button2;
     Button button3;
+    ByteArrayOutputStream outputStream;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        button = findViewById(R.id.button);
         button1 = findViewById(R.id.button1);
         button2 = findViewById(R.id.button2);
         button3 = findViewById(R.id.button3);
         button1.setOnClickListener(buttonClicked);
         button2.setOnClickListener(buttonClicked);
         button3.setOnClickListener(buttonClicked);
+        loadFragment();
+
+        KeyStoreHelper.context = this;
+        try {
+            KeyStoreHelper.testAES();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        KeyStoreHelper2.context = this;
+        String s1 = KeyStoreHelper2.encrypt("skander jabouzi");
+        Log.e("Text1", s1);
+        String s2 = KeyStoreHelper2.decrypt(s1);
+        if (s2 != null) Log.e("Text2", s2);
+        else Log.e("Text2", "NULL");
+
+        //        String text = "This is a test string";
+//        try {
+//            outputStream = KeyStoreHelper.encrypt(text);
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        }
+//
+//        try {
+//            String text2 = KeyStoreHelper.decrypt(outputStream, text);
+//            Log.e("Text", text2);
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        }
 
     }
 
@@ -45,6 +82,15 @@ public class MainActivity extends AppCompatActivity {
         super.onPause();
         EventBus.getDefault().unregister(this);
     }
+
+    private void loadFragment() {
+        Fragment drawerHome = new Fragment1();
+        FragmentTransaction fragmentTransaction = getSupportFragmentManager().beginTransaction();
+        fragmentTransaction.replace(R.id.container, drawerHome, null);
+        fragmentTransaction.addToBackStack(null);
+        fragmentTransaction.commit();
+    }
+
 
     private View.OnClickListener buttonClicked = new View.OnClickListener() {
         public void onClick(View v) {

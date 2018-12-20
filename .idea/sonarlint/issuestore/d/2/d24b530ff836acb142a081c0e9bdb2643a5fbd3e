@@ -1,0 +1,14 @@
+
+Œ"squid:ClassVariableVisibilityCheck
+"WMake TYPE_MOBILE a static final constant or non-public and provide accessors if needed.(ÿìŠæ8¯ÂÀÆú,
+Osquid:S1444
+"1Make this "public static TYPE_MOBILE" field final(ÿìŠæ8¯ÂÀÆú,
+Š"squid:ClassVariableVisibilityCheck	"UMake TYPE_WIFI a static final constant or non-public and provide accessors if needed.(î©ç©8¯ÂÀÆú,
+{squid:S3008"]Rename this field "TYPE_NOT_CONNECTED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ¡œ8¯ÂÀÆú,
+tsquid:S3008
+"VRename this field "TYPE_MOBILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿìŠæ8¯ÂÀÆú,
+“"squid:ClassVariableVisibilityCheck"^Make TYPE_NOT_CONNECTED a static final constant or non-public and provide accessors if needed.(İ¡œ8¯ÂÀÆú,
+Msquid:S1444	"/Make this "public static TYPE_WIFI" field final(î©ç©8¯ÂÀÆú,
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(ø×Ç8¯ÂÀÆú,
+Vsquid:S1444"8Make this "public static TYPE_NOT_CONNECTED" field final(İ¡œ8¯ÂÀÆú,
+rsquid:S3008	"TRename this field "TYPE_WIFI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î©ç©8¯ÂÀÆú,

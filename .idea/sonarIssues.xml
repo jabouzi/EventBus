@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Dispatcher/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Dispatcher/app/src/main/java/utrack/mainpackage/dispatcher/adapter/DialogAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Dispatcher/app/src/main/java/utrack/mainpackage/dispatcher/events/GlobalBus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Dispatcher/app/src/main/java/utrack/mainpackage/dispatcher/events/RequestsDialogEvents.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Dispatcher/app/src/main/java/utrack/mainpackage/dispatcher/fragment/AllOnlineDriversFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Dispatcher/app/src/main/java/utrack/mainpackage/dispatcher/fragment/DeliveriesDialogFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Dispatcher/app/src/main/java/utrack/mainpackage/dispatcher/schema/DeliveryRequestSchema.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Dispatcher/app/src/main/java/utrack/mainpackage/dispatcher/support/DecoratorUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Dispatcher/app/src/main/res/layout/dialog_item_layout.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Dispatcher/app/src/main/res/layout/dialog_title_layout.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Dispatcher/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/skanderjabouzi/eventbus/AlertDialogActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/skanderjabouzi/eventbus/Event.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/skanderjabouzi/eventbus/Event4.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/skanderjabouzi/eventbus/Fragment1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/skanderjabouzi/eventbus/Fragment2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/skanderjabouzi/eventbus/KeyStoreHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/skanderjabouzi/eventbus/KeyStoreHelper2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/skanderjabouzi/eventbus/Main2Activity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/skanderjabouzi/eventbus/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/skanderjabouzi/eventbus/MyService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/skanderjabouzi/eventbus/NetworkReceiver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/skanderjabouzi/eventbus/NetworkUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment1.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment2.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Maps/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Maps/app/src/main/java/com/skanderjabouzi/maps/Events.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Maps/app/src/main/java/com/skanderjabouzi/maps/GlobalBus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Maps/app/src/main/java/com/skanderjabouzi/maps/Helper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Maps/app/src/main/java/com/skanderjabouzi/maps/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Maps/app/src/main/java/com/skanderjabouzi/maps/MyFirebaseMessagingService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../android-guava-event-bus-tutorial/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../android-guava-event-bus-tutorial/app/src/main/java/tutorialwing/com/eventbuslibrarytutorial/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../android-guava-event-bus-tutorial/app/src/main/java/tutorialwing/com/eventbuslibrarytutorial/UserFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../android-guava-event-bus-tutorial/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mobile/MobileGBRS/apps/MobileGRS/android/native/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mobile/MobileGBRS/apps/MobileGRS/android/native/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mobile/MobileGBRS/apps/MobileGRS/android/native/src/ca/manulife/MobileGB/Events/ClaimsEvent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mobile/MobileGBRS/apps/MobileGRS/android/native/src/ca/manulife/MobileGB/Events/PushPermissionEvent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mobile/MobileGBRS/apps/MobileGRS/android/native/src/ca/manulife/MobileGB/Events/RecentClaimsEvent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mobile/MobileGBRS/apps/MobileGRS/android/native/src/ca/manulife/MobileGB/activities/GBLandingActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mobile/MobileGBRS/apps/MobileGRS/android/native/src/ca/manulife/MobileGB/activities/GBLoginActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mobile/MobileGBRS/apps/MobileGRS/android/native/src/ca/manulife/MobileGB/activities/SuperClaimsListActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mobile/MobileGBRS/apps/MobileGRS/android/native/src/ca/manulife/MobileGB/adapters/RecentClaimsListAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mobile/MobileGBRS/apps/MobileGRS/android/native/src/ca/manulife/MobileGB/adapters/SuperClaimsListAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mobile/MobileGBRS/apps/MobileGRS/android/native/src/ca/manulife/MobileGB/fragment/PushNotificationDialogFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mobile/MobileGBRS/apps/MobileGRS/android/native/src/ca/manulife/MobileGB/fragment/RecentClaimsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mobile/MobileGBRS/apps/MobileGRS/android/native/src/ca/manulife/MobileGB/helpers/EdgeLoginHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mobile/MobileGBRS/apps/MobileGRS/android/native/src/ca/manulife/MobileGB/helpers/EdgePublicTokenHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mobile/MobileGBRS/apps/MobileGRS/android/native/src/ca/manulife/MobileGB/presenters/ClaimDetailsPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mobile/MobileGBRS/apps/MobileGRS/android/native/src/ca/manulife/MobileGB/presenters/SuperClaimsListPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mobile/MobileGBRS/apps/MobileGRS/android/native/src/ca/manulife/MobileGB/services/LoginService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mobile/MobileGBRS/apps/MobileGRS/android/native/src/ca/manulife/MobileGBRS/BaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mobile/MobileGBRS/apps/MobileGRS/android/native/src/ca/manulife/MobileGBRS/Navigation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mobile/MobileGBRS/apps/MobileGRS/android/native/src/ca/manulife/MobileGBRS/fragments/touchId/FingerprintUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mobile/MobileGBRS/apps/MobileGRS/android/native/src/ca/manulife/MobileGBRS/receivers/NetworkReceiver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mobile/MobileGBRS/apps/MobileGRS/android/native/src/ca/manulife/MobileGBRS/utils/Connectivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mobile/MobileGBRS/apps/MobileGRS/android/native/src/ca/manulife/MobileGBRS/utils/KeyStoreHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mobile/MobileGBRS/apps/MobileGRS/android/native/src/ca/manulife/MobileGBRS/utils/KeyStoreHelper2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

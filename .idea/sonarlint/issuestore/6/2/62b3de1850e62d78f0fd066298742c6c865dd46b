@@ -1,0 +1,11 @@
+
+Fsquid:S1185F"(Remove this method to simply inherit it.(ÍÙ÷¢8±÷íçú,
+lsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±Ž8ñÆƒ¿û,
+nsquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8±÷íçú,
+Tsquid:S2696."6Make the enclosing method "static" or remove this set.(¶îºË8±÷íçú,
+Ysquid:S2696'"6Make the enclosing method "static" or remove this set.(óùËíýÿÿÿÿ8ˆÎ÷ñú,
+Fsquid:S1148+"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8±÷íçú,
+]squid:S3398Œ">Move this method into the anonymous class declared at line 95.(Òú »8±÷íçú,
+isquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(ÝçÎ8±÷íçú,
+]squid:S3398‡">Move this method into the anonymous class declared at line 95.(è™š¥8±÷íçú,
+bsquid:S3398‘">Move this method into the anonymous class declared at line 95.(ËÕ¿ãþÿÿÿÿ8±÷íçú,
